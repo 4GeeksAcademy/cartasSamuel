@@ -1,1 +1,30 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.contenedor {
+    border: 1px solid black;
+    width: 150px;
+height: 250px;
+text-align: center;
+
+}
+
+body{
+    background-color: aqua;
+}
+
+#iconoArriba{
+    font-size: 180px;
+    margin: auto;
+}
+#numeroCarta{
+    text-align: start;
+    margin: 0 0 0 20px;
+    font-size: 42px;
+}
+
+#iconoAbajo{
+
+    text-align: end;
+    margin: 20px 20px 0 0;
+    font-size: 25px;
+}
